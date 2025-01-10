@@ -5,7 +5,7 @@ Welcome to my GitHub profile! It's Josh here! Here's some little information abo
 ## 🚀 About Me
 - 🌟 Future **Computer Programmer**.
 - 💼 Currently studying **Bachelor of Science in Information Technology** at **Technological University of the Philippines - Taguig Campus** since **August 2023**.
-- 🎓 Graduated from **Centro Escolar Integrated School - Makati Campus** under **STEM Strand** on **June 26, 2023**.
+- 🎓 Graduated from **Centro Escolar Integrated School - Makati Campus** under **STEM Strand (specialized on Computer System Servicing)** on **June 26, 2023**.
 
 ## 🛠️ My Skills
 - **Languages**: **Python, JavaScript, C#, C++, Java, PHP, HTML, CSS**
