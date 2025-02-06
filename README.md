@@ -24,4 +24,6 @@ Here's some little information about me:
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Wonderhoy! 😊
 
-[![abaddonaiden4490's GitHub stats](https://github-readme-stats.vercel.app/api?username=abaddonaiden4490)](https://github.com/abaddonaiden4490/github-readme-stats)
+![abaddonaiden4490's GitHub stats](https://github-readme-stats.vercel.app/api?username=abaddonaiden4490&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaddonaiden4490&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
