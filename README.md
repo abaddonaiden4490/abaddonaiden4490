@@ -1,6 +1,8 @@
 ## Welcome to my coding haven peeps 👋
 
-Welcome to my GitHub profile! It's Josh here! Here's some little information about me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hello!+I+am+Josh+Bernabe!;An+aspiring+Programmer%2FDeveloper)](https://git.io/typing-svg)
+
+Here's some little information about me:
 
 ## 🚀 About Me
 - 🌟 Future **Computer Programmer**.
