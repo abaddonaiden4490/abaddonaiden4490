@@ -12,7 +12,7 @@ Here's some little information about me:
 - 🎓 Graduated from **Centro Escolar Integrated School - Makati Campus** under **STEM Strand (specialized on Computer System Servicing)** on **June 26, 2023**.
 
 ## 🛠️ My Skills
-- **Languages**: **Python, JavaScript, C#, C++, Visual Basic .NET, Java, PHP, HTML, CSS, React (Web & Native)**
+- **Languages**: **Python, JavaScript, C#, C++, Visual Basic .NET, Java, PHP, HTML, CSS, Move, React (Web & Native)**
 - **Tools & Frameworks**: **Laravel, Node.js, Express.js, jQuery, Vue.js, AJAX, Bootstrap, Tailwind CSS**
 - **Databases & ORMs**: **MySQL, MongoDB, MariaDB, Eloquent ORM**
 - **Development Skills**: **RESTful API Integration, CRUD Operations, User Authentication, MVC Architecture, DataTables (jQuery)**
